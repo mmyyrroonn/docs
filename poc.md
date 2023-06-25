@@ -8,10 +8,11 @@ Time: 1 months
 ## 合约
 ### Settlements 合约 (可以跟产品复用)
 #### Total
-- 1 contract dev, 3 weeks
+- 1 contract dev, 4 weeks
 
 #### Break Down
 - Settlement & VRF: 2 week
+- Cancel & Probability: 1 week
 - Test Case: 1 week
 
 ### PoC 合约
