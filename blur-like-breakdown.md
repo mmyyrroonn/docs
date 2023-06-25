@@ -13,10 +13,11 @@ Note:
 ## 合约
 ### Settlements 合约
 #### Total
-- 1 contract dev, 4 weeks
+- 1 contract dev, 5 weeks
 
 #### Break Down
 - Settlement & VRF: 2 week
+- Cancel & Probability: 1 week
 - Combination with Marketplace SC: 1 week
 - Test Case: 1 week
 - 代码审计: ?
