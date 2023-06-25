@@ -24,11 +24,12 @@ Note:
 
 ### Marketplace 合约
 #### Total
-- 1 contract dev, 6 weeks
+- 1 contract dev, 6~8 weeks
 
 #### Break Down
 - Policy Manager: 1 week
 - Main Exchange: 2 week
+- (Optional) ETH Pool Deposit & Withdraw: 2 week
 - Matching Policy: 1 week
 - Execution Delegate: 1 week
 - Test Case: 1 week
@@ -42,7 +43,7 @@ Note:
 #### Break Down
 - DB Schema & DAO: 1 week
 - 链上数据索引聚合: 2 ~ 3 weeks
-- NFT数据索引聚合: 2 ~ 3 weeks
+- NFT数据索引聚合: 2 ~ 3 weeks (Reservoir SDK)
 - API (前端 Portal，或者): 1 ~ 2 weeks
 
 
@@ -75,7 +76,6 @@ Note:
 - Buy Page
     - UI 设计: 1 day
     - 开发: 0.5 week
-
 
 ## 联调
 前端 + 后端 + 合约: 3 weeks
