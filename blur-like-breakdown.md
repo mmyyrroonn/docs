@@ -11,6 +11,16 @@ UI和产品设计要前置 (合约开发依赖产品设计，前端开发依赖U
 
 # Break Down
 ## 合约
+### Settlements 合约
+#### Total
+1 contract dev, 4 weeks
+
+#### Break Down
+- Settlement & VRF: 2 week
+- Combination with Marketplace SC: 1 week
+- Test Case: 1 week
+- 代码审计: ?
+
 ### Marketplace 合约
 #### Total
 1 contract dev, 6 weeks
@@ -20,15 +30,6 @@ UI和产品设计要前置 (合约开发依赖产品设计，前端开发依赖U
 - Main Exchange: 2 week
 - Matching Policy: 1 week
 - Execution Delegate: 1 week
-- Test Case: 1 week
-- 代码审计: ?
-### Settlements 合约
-#### Total
-1 contract dev, 4 weeks
-
-#### Break Down
-- Settlement & VRF: 2 week
-- Combination with Marketplace SC: 1 week
 - Test Case: 1 week
 - 代码审计: ?
 
