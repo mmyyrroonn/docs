@@ -1,13 +1,13 @@
 # Total
 
-Human resource: 1 contract dev + 1 backend dev + 1~2 frontend dev + 1 UI + 1 QA + 1 product manager
+Human resource: 1 contract dev + 1 backend dev + 1~2 frontend dev + 1 UI + 1 QA/OPs + 1 product manager
 
 Time: 4 months
 
 Note:
 - UI和产品设计要前置 (合约开发依赖产品设计，前端开发依赖UI)
 - 合约开发要略微前置 (后续 Service 和前端开发依赖合约接口)，后端 Service 和前端开发可以并行
-- 3 ~ 4 个月为项目第一个版本的总体开发时间，并不意味着所有配比人员都需要持续地投入 100% Bandwidth
+- 3 ~ 4 个月为项目第一个版本的总体开发时间
 
 # Break Down
 ## 合约
