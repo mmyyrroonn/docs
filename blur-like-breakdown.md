@@ -5,15 +5,15 @@ Human resource: 1 contract dev + 1 backend dev + 1~2 frontend dev + 1 UI + 1 QA 
 Time: 4 months
 
 Note:
-UI和产品设计要前置 (合约开发依赖产品设计，前端开发依赖UI)
-合约开发要略微前置 (后续 Service 和前端开发依赖合约接口)，后端 Service 和前端开发可以并行
-3 ~ 4 个月为项目第一个版本的总体开发时间，并不意味着所有配比人员都需要持续地投入 100% Bandwidth
+- UI和产品设计要前置 (合约开发依赖产品设计，前端开发依赖UI)
+- 合约开发要略微前置 (后续 Service 和前端开发依赖合约接口)，后端 Service 和前端开发可以并行
+- 3 ~ 4 个月为项目第一个版本的总体开发时间，并不意味着所有配比人员都需要持续地投入 100% Bandwidth
 
 # Break Down
 ## 合约
 ### Settlements 合约
 #### Total
-1 contract dev, 4 weeks
+- 1 contract dev, 4 weeks
 
 #### Break Down
 - Settlement & VRF: 2 week
@@ -23,7 +23,7 @@ UI和产品设计要前置 (合约开发依赖产品设计，前端开发依赖U
 
 ### Marketplace 合约
 #### Total
-1 contract dev, 6 weeks
+- 1 contract dev, 6 weeks
 
 #### Break Down
 - Policy Manager: 1 week
@@ -36,7 +36,7 @@ UI和产品设计要前置 (合约开发依赖产品设计，前端开发依赖U
 
 ## 后端
 ### Total
-1 backend dev, 8 ~ 10 weeks
+- 1 backend dev, 8 ~ 10 weeks
 
 #### Break Down
 - DB Schema & DAO: 1 week
@@ -47,8 +47,8 @@ UI和产品设计要前置 (合约开发依赖产品设计，前端开发依赖U
 
 ## 前端
 ### Total
-1 frontend dev, ~ 9 weeks
-1 UI, 4 weeks
+- 1 frontend dev, ~ 9 weeks
+- 1 UI, 4 weeks
 
 ## Break Down
 - Marketplace 合约交互 SDK 封装 (如果不使用或者适配 Reservoir SDK/API): 2 weeks
