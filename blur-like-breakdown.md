@@ -38,12 +38,13 @@ Note:
 
 ## 后端
 ### Total
-- 1 backend dev, 8 ~ 10 weeks
+- 1 backend dev, 12 ~ 14 weeks
 
 #### Break Down
 - DB Schema & DAO: 1 week
 - 链上数据索引聚合: 2 ~ 3 weeks
 - NFT数据索引聚合: 2 ~ 3 weeks (Reservoir SDK)
+- 订单系统: 4 weeks (under investigation)
 - API (前端 Portal，或者): 1 ~ 2 weeks
 
 
