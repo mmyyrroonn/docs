@@ -44,7 +44,7 @@ Note:
 - DB Schema & DAO: 1 week
 - 链上数据索引聚合: 2 ~ 3 weeks
 - NFT数据索引聚合: 2 ~ 3 weeks (Reservoir SDK)
-- 订单系统: 4 weeks (under investigation)
+- 订单系统: 4 weeks (Reservoir SDK？)
 - API (前端 Portal，或者): 1 ~ 2 weeks
 
 
